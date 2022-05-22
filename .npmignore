@@ -1,5 +1,11 @@
-.example
+example
 .husky
-./src
+src
 .eslintrc.js
-
+.gitignore
+.prettierignore
+.prettierrc
+jest.config.js
+package-lock.json
+tsconfig.json
+.parcel-cache
